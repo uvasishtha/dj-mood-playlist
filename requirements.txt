@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pandas
+spotipy
+python-dotenv
+transformers
+# Note: transformers may require `torch`. Install `torch` separately if needed for your platform.

@@ -1,0 +1,76 @@
+INFO:     Will watch for changes in these directories: ['/Users/urvi/dj-mood-playlist/backend']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [60203] using WatchFiles
+INFO:     Started server process [60246]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+Device set to use mps:0
+/Users/urvi/dj-mood-playlist/backend/venv/lib/python3.12/site-packages/transformers/pipelines/text_classification.py:111: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+INFO:     127.0.0.1:50531 - "POST /analyze_mood HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'app.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [60246]
+INFO:     Started server process [60633]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'app.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [60633]
+INFO:     Started server process [60634]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'app.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [60634]
+INFO:     Started server process [60635]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+Device set to use mps:0
+/Users/urvi/dj-mood-playlist/backend/venv/lib/python3.12/site-packages/transformers/pipelines/text_classification.py:111: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+INFO:     127.0.0.1:50592 - "POST /analyze_mood HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50598 - "POST /analyze_mood HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'app.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [60635]
+INFO:     Started server process [61062]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'app.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [61062]
+INFO:     Started server process [61068]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'app.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [61068]
+INFO:     Started server process [61070]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'app.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [61070]
+INFO:     Started server process [61095]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+Device set to use mps:0
+/Users/urvi/dj-mood-playlist/backend/venv/lib/python3.12/site-packages/transformers/pipelines/text_classification.py:111: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+INFO:     127.0.0.1:50637 - "POST /analyze_mood HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50641 - "POST /analyze_mood HTTP/1.1" 200 OK
